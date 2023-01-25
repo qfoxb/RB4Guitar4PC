@@ -7,4 +7,4 @@ A repository documenting things in regards to connecting a Rock Band 4 Guitar to
 ## [Connecting an Xbox One RB4 Guitar to RPCS3](Xbox/rpcs3.md)
 
 # PS4
-## Not documented yet! Please [contribute!!](github.com/qfoxb/RB4Guitar4PC/pulls)
+## Not documented yet! Please [contribute!!](https://github.com/qfoxb/RB4Guitar4PC/pulls)
