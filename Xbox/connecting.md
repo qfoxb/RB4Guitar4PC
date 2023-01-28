@@ -1,4 +1,5 @@
 # Connecting an Xbox One RB4 Guitar to a PC
+#### Documentation based off [GuitarSniffer](https://github.com/artman41/guitarsniffer)'s install guide
 ## Prerequisites
 * A Windows PC
 * An Xbox One RB4 Guitar
