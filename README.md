@@ -8,3 +8,6 @@ A repository documenting things in regards to connecting a Rock Band 4 Guitar to
 
 # PS4
 ## Not documented yet! Please [contribute!!](https://github.com/qfoxb/RB4Guitar4PC/pulls)
+
+# Resources
+## [How do I connect a guitar controller to my PC? (from Harmonix)](https://harmonix.zendesk.com/hc/en-us/articles/115004674127-How-do-I-connect-a-guitar-controller-to-my-PC-)
