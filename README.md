@@ -11,3 +11,4 @@ A repository documenting things in regards to connecting a Rock Band 4 Guitar to
 
 # Resources
 ## [How do I connect a guitar controller to my PC? (from Harmonix)](https://harmonix.zendesk.com/hc/en-us/articles/115004674127-How-do-I-connect-a-guitar-controller-to-my-PC-)
+## [How to install Xbox Wireless Adapter on Steam Deck](https://www.reddit.com/r/SteamDeck/comments/vz19fp/comment/iuyqu5h/?utm_source=share&utm_medium=web2x&context=3)
