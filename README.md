@@ -1,4 +1,5 @@
-# RB4Guitar4PC
+# ⚠️This documentation is outdated and will cause issues. Please use [RB4InstrumentMapper](https://github.com/TheNathannator/RB4InstrumentMapper) instead!⚠️
+## RB4Guitar4PC
 A repository documenting things in regards to connecting a Rock Band 4 Guitar to a PC!
 
 # Xbox
